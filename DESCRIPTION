@@ -26,3 +26,5 @@ Imports:
     httr,
     xml2
 RoxygenNote: 6.1.1
+URL: https://github.com/jjesusfilho/atribuna
+BugReports: https://github.com/jjesusfilho/atribuna/issues
