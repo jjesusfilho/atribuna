@@ -1,3 +1,7 @@
 ^atribuna\.Rproj$
 ^\.Rproj\.user$
 ^README\.Rmd$
+^appveyor\.yml$
+^\.travis\.yml$
+^LICENSE\.md$
+^CODE_OF_CONDUCT\.md$
